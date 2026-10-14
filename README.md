@@ -1,6 +1,6 @@
 # K-Means Clustering on Wine Data
 
-_**Early project (2024).** I wrote this as one notebook before moving into industry, and I've kept it as-is to show my starting point. I now structure projects as modular, reusable Python code. See [my GitHub profile](https://github.com/jadonc121) for what that looks like._
+_**Early project (2024).** I wrote this as one notebook before moving into industry, and I've kept it as-is to show my starting point. I now structure projects as modular, reusable Python code. See [my current project](https://github.com/jadonc121/causal-inference) for what that looks like._
 
 Unsupervised learning walkthrough: how many groups of wine are hiding in 13 chemical measurements, and how do you justify the answer?
 
